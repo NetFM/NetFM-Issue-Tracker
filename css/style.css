@@ -86,3 +86,9 @@ footer.page-footer {
 {
   font-weight: lighter;
 }
+
+.smaller-line-height
+{
+  line-height:1.2rem;
+}
+
